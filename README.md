@@ -26,7 +26,7 @@ WEBOSINT:-
 5)Whois
 
 
-###Installing
+### Installing
 ```
 git clone https://github.com/Nadar-Athis/OsintOX
 ```
