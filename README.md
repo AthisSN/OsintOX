@@ -26,4 +26,31 @@ WEBOSINT:-
 5)Whois
 
 
+#Installing
+```
+git clone https://github.com/Nadar-Athis/OsintOX
+```
+```
+cd OsintOX
+```
+For Permissions
+```
+chmod +x *
+```
+For Requirements
+```
+pip install requirements.txt
+```
+Execution For Trackers (Normal Osint) 
+```
+python3 osintox.py 
+```
+Execution For WebOsint
+```
+python3 webosint.py
+```
+
+
+
+
 
