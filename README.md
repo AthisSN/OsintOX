@@ -26,7 +26,7 @@ A PowerFul OSINT Tool which has a lot stuffs.This Tool is built using Python3 an
 - Whois
 
 <p align="center">
-  <a href="https://github.com/Nadar-Athi/OsintOX" rel="nofollow"><img src="https://i.imgur.com/a/aI5App2" style="max-width:100%;"></a>
+  <a href="https://github.com/Nadar-Athi/OsintOX"><img src="https://imgur.com/a/e0b00Bm" alt="Trackers"></a>
 
 
 ### Installation
