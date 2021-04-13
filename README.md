@@ -26,7 +26,7 @@ A General purpose tool mainly used for OSINT.It has many submodules which are li
 - Whois
 
 
-### Installing
+### Installation
 ```git clone https://github.com/Nadar-Athis/OsintOX```
 
 ### For Permissions
