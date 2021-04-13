@@ -6,11 +6,11 @@
 
 # OsintOX
 A General purpose tool mainly used for OSINT.It has many submodules which are listed below,
-- 1)Trackers:-This section is all about normal and basics information gathering.
-- 2)WebOsint:-It Contains a lot of stuffs regarding websites information gathering.
+- Trackers:-This section is all about normal and basics information gathering.
+- WebOsint:-It Contains a lot of stuffs regarding websites information gathering.
 
 
-TRACKERS:-
+#Trackers:-
 - IpTracker
 - PhoneNumber Tracker
 - MacAddress Lookup
@@ -18,7 +18,7 @@ TRACKERS:-
 - ReverseImage
 - PortScanner
 
-WEBOSINT:-
+#WebOsint:-
 - CMS Detection
 - NsLookup
 - ReverseIp
