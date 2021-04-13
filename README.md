@@ -11,12 +11,12 @@ A General purpose tool mainly used for OSINT.It has many submodules which are li
 
 
 TRACKERS:-
-1)IpTracker
-2)PhoneNumber Tracker
-3)MacAddress Lookup
-4)MetaData Extracter
-5)ReverseImage
-6)PortScanner
+- 1)IpTracker
+- 2)PhoneNumber Tracker
+- 3)MacAddress Lookup
+- 4)MetaData Extracter
+- 5)ReverseImage
+- 6)PortScanner
 
 WEBOSINT:-
 1)CMS Detection
