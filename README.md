@@ -27,28 +27,17 @@ WEBOSINT:-
 
 
 ### Installing
-```
-git clone https://github.com/Nadar-Athis/OsintOX
-```
-```
-cd OsintOX
-```
+```git clone https://github.com/Nadar-Athis/OsintOX```
+```cd OsintOX```
+
 ### For Permissions
-```
-chmod +x *
-```
+```chmod +x *```
 ### For Requirements
-```
-pip install requirements.txt
-```
+```pip install requirements.txt```
 ### Execution For Trackers (Normal Osint) 
-```
-python3 osintox.py 
-```
+```python3 osintox.py ```
 ### Execution For WebOsint
-```
-python3 webosint.py
-```
+```python3 webosint.py```
 
 
 
