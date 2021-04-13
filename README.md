@@ -28,7 +28,6 @@ WEBOSINT:-
 
 ### Installing
 ```git clone https://github.com/Nadar-Athis/OsintOX```
-```cd OsintOX```
 
 ### For Permissions
 ```chmod +x *```
