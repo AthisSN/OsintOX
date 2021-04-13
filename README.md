@@ -18,6 +18,9 @@ A PowerFul OSINT Tool which has a lot stuffs.This Tool is built using Python3 an
 - ReverseImage
 - PortScanner
 
+![osintox](https://user-images.githubusercontent.com/53950135/114552945-bcabf680-9c82-11eb-81ea-1c44fd98f0cf.png)
+
+
 ## WebOsint :
 - CMS Detection
 - NsLookup
@@ -25,7 +28,6 @@ A PowerFul OSINT Tool which has a lot stuffs.This Tool is built using Python3 an
 - Subdomain Enumeration
 - Whois
 
-![Trackers](/Downloads/osintox.png)
 
 
 ### Installation
