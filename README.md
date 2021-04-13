@@ -14,6 +14,7 @@ A PowerFul OSINT Tool which has a lot stuffs.This Tool is built using Python3 an
 - IpTracker
 - PhoneNumber Tracker
 - MacAddress Lookup
+- EmailScanner
 - MetaData Extracter
 - ReverseImage
 - PortScanner
@@ -28,7 +29,7 @@ A PowerFul OSINT Tool which has a lot stuffs.This Tool is built using Python3 an
 - Subdomain Enumeration
 - Whois
 
-
+![webosint](https://user-images.githubusercontent.com/53950135/114553153-f846c080-9c82-11eb-809f-3d69ab5ad48d.png)
 
 ### Installation
 ```git clone https://github.com/Nadar-Athis/OsintOX```
