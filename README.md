@@ -6,8 +6,8 @@
 
 # OsintOX
 A General purpose tool mainly used for OSINT.It has many submodules which are listed below,
-1)Trackers:-This section is all about normal and basics information gathering.
-2)WebOsint:-It Contains a lot of stuffs regarding websites information gathering.
+- 1)Trackers:-This section is all about normal and basics information gathering.
+- 2)WebOsint:-It Contains a lot of stuffs regarding websites information gathering.
 
 
 TRACKERS:-
@@ -19,11 +19,11 @@ TRACKERS:-
 - 6)PortScanner
 
 WEBOSINT:-
-1)CMS Detection
-2)NsLookup
-3)ReverseIp
-4)Subdomain Enumeration
-5)Whois
+- CMS Detection
+- NsLookup
+- ReverseIp
+- Subdomain Enumeration
+- Whois
 
 
 ### Installing
