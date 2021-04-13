@@ -5,7 +5,7 @@
   <a href="https://github.com/Nadar-Athis/OsintOX/blob/master/LICENSE" rel="nofollow"><img src="https://img.shields.io/badge/license-GPL-blue.svg" style="max-width:100%;"></a>
 
 # OsintOX
-A General purpose tool mainly used for OSINT.It has many submodules which are listed below,
+A PowerFul OSINT Tool which has a lot stuffs.This Tool is built using Python3 and has many submodules inside it.
 - Trackers:-This section is all about normal and basics information gathering.
 - WebOsint:-It Contains a lot of stuffs regarding websites information gathering.
 
