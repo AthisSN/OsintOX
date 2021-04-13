@@ -25,8 +25,7 @@ A PowerFul OSINT Tool which has a lot stuffs.This Tool is built using Python3 an
 - Subdomain Enumeration
 - Whois
 
-<p align="center">
-  <a href="https://github.com/Nadar-Athi/OsintOX"><img src="https://imgur.com/a/e0b00Bm" alt="Trackers"></a>
+![Trackers](/Downloads/osintox.png)
 
 
 ### Installation
