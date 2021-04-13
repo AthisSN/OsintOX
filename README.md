@@ -10,7 +10,7 @@ A General purpose tool mainly used for OSINT.It has many submodules which are li
 - WebOsint:-It Contains a lot of stuffs regarding websites information gathering.
 
 
-#Trackers:-
+## Trackers:-
 - IpTracker
 - PhoneNumber Tracker
 - MacAddress Lookup
@@ -18,7 +18,7 @@ A General purpose tool mainly used for OSINT.It has many submodules which are li
 - ReverseImage
 - PortScanner
 
-#WebOsint:-
+## WebOsint:-
 - CMS Detection
 - NsLookup
 - ReverseIp
