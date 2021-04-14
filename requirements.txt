@@ -1,0 +1,8 @@
+urllib.request
+requests
+PIL
+phonenumbers
+webbrowser
+datetime
+whois
+
